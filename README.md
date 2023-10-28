@@ -31,14 +31,20 @@ Data are extracted from a centralized database and stored in the attached file c
 The column “last_step” is the final point of contact with customers before they leave our website. Its values are explained below:
 
 ● Received: sms/email sent successfully, but no clicked.
+
 ● Bounced: they clicked but exited immediately.
+
 ● Saw review: scroll down and read the review and information of the product 
+
 ● Added to cart: customers added the product to cart to check out
+
 ● Payment page: They stopped at payment without finishing it 
+
 ● Purchased: They made an order
 
 Financial Information
 Together with the data above, you have additional information about the production cost and the marketing campaigns.
+
 ● Production cost for each razor is 18$.
 
 ● Cost per one SMS is $0.050, cost per one email sent is $0.075.
