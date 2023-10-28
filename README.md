@@ -1,6 +1,9 @@
 # marketing-analyst-sql
+
 **TRUSTING SOCIAL**
+
 **Question 1**
+
 Assuming that your company is running a loan marketplace where people who want to borrow money are matched with appropriate loan products provided by different banks, the data schemas are shown below:
 
 <img width="870" alt="Screen Shot 2023-10-28 at 22 50 38" src="https://github.com/VivianeLe/marketing-analyst-sql/assets/95589311/0b929dbe-2de7-4552-a532-6f02a79dc793">
@@ -18,11 +21,14 @@ f) Show the names of all leads who applied in 2017 and are older than 90% of all
 
 **Question 2**
 You are a Data Analyst for a company which produces a new generation of electric men razor. Your company registered an e-commerce site at www.Coolmen-Coolrazors.com 1 month ago to sell its product online instead of the traditional supermarket channel. During the last month, it piloted advertising on 2 channels:
+
 ● Email Channel
 ● SMS Channel
+
 Data are extracted from a centralized database and stored in the attached file called “mkt_data.csv”.
 
 The column “last_step” is the final point of contact with customers before they leave our website. Its values are explained below:
+
 ● Received: sms/email sent successfully, but no clicked.
 ● Bounced: they clicked but exited immediately.
 ● Saw review: scroll down and read the review and information of the product ● Added to cart: customers added the product to cart to check out
@@ -38,6 +44,7 @@ Together with the data above, you have additional information about the producti
 ○ 18 - 30 ○ 31 - 45 ○ 46 - 60 ○ 60 +
 
 Question
+
 2.a. For the next quarter, your marketing department has a budget of $60,000 to spend on online campaigns. How would you allocate it between SMS and Email? Assume that we have potential customer pool for each age group as below:
 <img width="819" alt="Screen Shot 2023-10-28 at 22 52 34" src="https://github.com/VivianeLe/marketing-analyst-sql/assets/95589311/29055b9c-ff89-41f0-a569-6e7fc376bc87">
 2.b. Now assume that you are also responsible for the operation of the company’s website. Do you have any comments or suggestions so that we can improve the website’s performance in order to maximize net profit?
